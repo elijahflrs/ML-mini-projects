@@ -1,2 +1,2 @@
 # ML-mini-projects
-A collection of machine learning / deep learning experiments. 
+A collection of my machine learning projects and experiments. 
